@@ -1,1 +1,1 @@
-# anlisis_de_una_empresa_de_telecomunicaciones
+# analisis_de_una_empresa_de_telecomunicaciones
